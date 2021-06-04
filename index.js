@@ -1,6 +1,7 @@
 //Now find and fix the runtime error in a longer code sample.
 //Pay close attention to any line numbers mentioned in the message - these will help locate and repair the mistake in the code.
 
+
 let launchReady = false;
 let fuelLevel = 27000;
 
